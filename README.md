@@ -2,7 +2,7 @@
 
 Esse projeto foi desenvolvido com base no curso da @SpruceGabriela, Recriando a página inicial do Instagram, ofertado pela Digital Innovation One.
 
-A ideia aqui foi criar algo diferente do projeto original [Disponível Aqui](https://github.com/viniciusgrippa/login-academialet.git), utilizando principalmente o recurso do flexbox.
+A ideia aqui foi criar algo diferente do projeto original [Disponível Aqui](https://github.com/SpruceGabriela/instagram-dio), utilizando principalmente o recurso do flexbox.
 
 Para esse projeto, simulei a página de login para aplicativo para academias, personal trainers e para atletas. As ferramentas que utilizei ao longo desse projeto foram:
 
